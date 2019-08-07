@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#stephen-blais-card {
+ background-image: url("http://s-blais.com/assets/deskpic.jpg");
+}
+
+#stephen-blais-cover {
+ background-image: url("http://s-blais.com/assets/westonlog.jpg");
+}
+
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }
